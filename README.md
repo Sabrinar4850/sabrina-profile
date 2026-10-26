@@ -11,4 +11,5 @@ I am a cybersecurity student expecting to graduate in 2030. I have experience re
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Sabrinar4850)
+
 Don't miss out on something that could be great just because it could also be difficult.
